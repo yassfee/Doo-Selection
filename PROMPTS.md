@@ -323,6 +323,41 @@ palette work was interrupted before finishing.)*
 
 ---
 
-## Prompt 12 — This request
+## Prompt 12
 
 ok put all the prompts used in one singe file so i can submit it
+
+---
+
+## Prompt 13 — Publishing to GitHub
+
+make a new github repo called Doo-Selection and lets push all the work of this project over there
+
+*(gh CLI wasn't installed; installed it via winget, authenticated via device
+code flow, initialized git, extended .gitignore to exclude node_modules/dist,
+committed, and pushed to a new private repo.)*
+
+---
+
+## Prompt 14
+
+the repo is public right
+
+*(Follow-up decision, via a clarifying question: repo was private by default —
+asked whether to make it public or keep it private. Answer: "Make it public."
+Switched visibility with `gh repo edit --visibility public`.)*
+
+---
+
+## Prompt 15
+
+perfect, add a readme file
+
+*(Added README.md describing the project, the forced-escalation rule, stack,
+setup commands, and project structure; committed and pushed.)*
+
+---
+
+## Prompt 16 — This request
+
+update the prompts file
