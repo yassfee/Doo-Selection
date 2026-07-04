@@ -1,5 +1,7 @@
 # Doo Selection — Triage Console
 
+**Live demo:** https://triage-console-aayni2vw7-yassfee923-8062s-projects.vercel.app
+
 A client-side prototype of a triage/decision console for a customer service
 inbox. For each incoming request, a rule-based engine decides:
 
